@@ -1,0 +1,22 @@
+body{
+    background: #000;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.divider{
+    background-color:rgb(226, 214, 214);
+    color: black;
+    font-size: 20px;
+}
+
+.img-fluid{
+    border-radius: 30px;
+
+}
+
+
+.boo{
+    float: right;
+}
+
